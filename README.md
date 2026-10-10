@@ -1,4 +1,4 @@
-# NLA - Challenge 1
+# Image-Filtering-and-Denoising
 **Goal**: Apply image filters and find the approximate solution of linear system to process a
 greyscale image.
 
